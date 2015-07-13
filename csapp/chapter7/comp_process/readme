@@ -1,0 +1,4 @@
+gcc -E  --> Preprocessor, but don't compile
+gcc -S  --> Compile but don't assemble
+gcc -c  --> asseble but don't link
+gcc with no switch will link your object files and generate the executable
