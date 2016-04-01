@@ -7,9 +7,11 @@
 
 
 
-//TODO: iterator whole list
-#define ITER_LIST(
+//TODO: iterator whole list by list_head
+#define ITER_LIST(list, item) \
+    for (
 
+//TODO: iterator whole list by container of list_head
 
 struct list_head {
     struct list_head* prev;
