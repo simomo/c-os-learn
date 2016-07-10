@@ -6,3 +6,4 @@ char p[];
 void main() {
     printf("%c", *p);
 }
+

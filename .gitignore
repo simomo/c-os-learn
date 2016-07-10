@@ -32,3 +32,5 @@
 *.dSYM/
 
 .vscode/
+.idea/
+CMakeLists.txt
